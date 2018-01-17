@@ -1,0 +1,6 @@
+id = 1
+name = foo
+age = 10
+wage = 100.0
+active = true
+address = Bochum
